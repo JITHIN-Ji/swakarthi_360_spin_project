@@ -375,7 +375,7 @@ def create_360_viewer_html(images):
 # --- Streamlit UI ---
 st.set_page_config(page_title="360° Viewer Generator", page_icon="🔄", layout="centered")
 
-st.title("swakriti 360 viewer")
+st.title("Swakriti 360 Viewer")
 
 # Upload sections
 uploaded_file = st.file_uploader(
